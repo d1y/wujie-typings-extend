@@ -2,6 +2,10 @@
 
 > fork by https://gitee.com/jh_shot/wujie-typings
 
+```bash
+npm i --save wujie-typings-extend
+```
+
 基于 Wujie 1.0.6 版本编写
 
 - Vue组件
