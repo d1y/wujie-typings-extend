@@ -1,0 +1,32 @@
+{
+  "name": "wujie-typings-extend",
+  "version": "1.0.7",
+  "description": "Wujie 类型定义",
+  "author": "WangRuiJin <1361572192@qq.com>",
+  "license": "MulanPSL2",
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:jh_shot/vant2-typings.git"
+  },
+  "bugs": "https://gitee.com/jh_shot/wujie-typings/issues",
+  "homepage": "https://gitee.com/jh_shot/wujie-typings",
+  "keywords": [
+    "Wujie"
+  ],
+  "files": [
+    "component.d.ts",
+    "global.d.ts",
+    "jsx.d.ts",
+    "v3.d.ts",
+    "v26.d.ts",
+    "v27.d.ts",
+    "bus_overwrite.d.ts",
+    "wujie.d.ts"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "wujie": "^1.0.6"
+  }
+}
